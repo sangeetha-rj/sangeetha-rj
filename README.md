@@ -31,7 +31,6 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/sangeetha-r-123255398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangeetha-rj" height="30" width="40"/></a>
  <a href="www.linkedin.com/in/sangeetha-r-123255398" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin-2.png" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://instagram.com/rj_sangeetha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rj_sangeetha_" height="30" width="40" /></a>
  <a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
@@ -73,15 +72,17 @@
 
 ### 📊 GitHub Stats:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sangeetha-rj&show_icons=true&theme=radical" alt="GitHub Stats" />
+<!-- Row 1 → Streak Stats -->
+<p align="center">
+    <img  src="https://streak-stats.demolab.com?user=sangeetha-rj&theme=radical" />
+</p>
 
-  <img src="https://streak-stats.demolab.com?user=sangeetha-rj&theme=radical" />
+<!-- Row 2 → Normal Stats -->
+<p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sangeetha-rj&show_icons=true&theme=radical" />
 
+</p>
 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sangeetha-rj&show_icons=true&theme=radical" />
-
-</div>
 
 ### 📈 Contributions:
 <div align="center">
@@ -93,5 +94,14 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Hacking Snake" style="background-color:black; color:green;" />
 </div>
+
+---
+
+## ✨ Motivational Quote
+
+<p align="center">
+  <em>"Believe in yourself. Even the best code begins with a simple idea."</em><br>
+  <strong>— Stay Motivated & Keep Coding 💻✨</strong>
+</p>
 
 
