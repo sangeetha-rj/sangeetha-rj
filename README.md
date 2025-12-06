@@ -21,9 +21,9 @@
     
 - 💬 **Ask me about**: **C#.NET, MS SQL**
   
-- 📫 **Reach me**: [sangeetharamaraj99@gmail.com](mailto:sangeetharamaraj99@gmail.com)
+- 📫 **Reach me**: [sangeetharamaraj406@gmail.com](mailto:sangeetharamaraj406@gmail.com)
   
--  👨‍💻 **Visit my Portfolio**: [sangeetha-rj.github.io/portfolio/ ](sangeetha-rj.github.io/portfolio/)
+-  👨‍💻 **Visit my Portfolio**: [https://sangeetha-rj.github.io/sangeetha-portfolio/ ](https://sangeetha-rj.github.io/sangeetha-portfolio/)
    
 - 😄 **Pronouns**: Techie
   
@@ -31,8 +31,8 @@
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kalaivanan39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalaivanan39" height="30" width="40"/></a>
- <a href="https://www.linkedin.com/in/your-linkedin-username" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin-2.png" alt="LinkedIn" height="40" width="40" /></a>
+<a href="www.linkedin.com/in/sangeetha-r-123255398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangeetha-rj" height="30" width="40"/></a>
+ <a href="www.linkedin.com/in/sangeetha-r-123255398" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/linkedin-2.png" alt="LinkedIn" height="40" width="40" /></a>
 <a href="https://instagram.com/rj_sangeetha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rj_sangeetha_" height="30" width="40" /></a>
  <a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail" height="30" width="40" /></a>
 </p>
@@ -75,6 +75,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sangeetha-rj&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <img src="https://streak-stats.demolab.com?user=sangeetha-rj&theme=radical" />
+
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sangeetha-rj&show_icons=true&theme=radical" />
+
 </div>
 
 ### 📈 Contributions:
